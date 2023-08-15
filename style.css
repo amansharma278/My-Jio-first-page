@@ -1,0 +1,228 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Roboto', sans-serif;;
+}
+.navbaar{
+    background-color: #0f3cc9;;
+    height: 72px;
+    width: 100%;
+}
+.navbaar a{
+
+}
+/* Building a header section */
+.My_jio_nav{
+    height: 72px;
+    align-items: center;
+    justify-content: space-evenly;
+    display: flex;
+
+}
+.Nav_logo img{
+    height: 40px;
+    width: 40px;
+    margin-left: 70px;
+}
+/* break */
+
+.Container_list  {
+    display: flex;
+    justify-content: space-evenly;
+
+    
+    
+}
+.Container_list p{
+    margin-left: 30px;
+    color: white;
+}
+
+.Search_input input{
+    margin-left: 25px;
+    height: 40px;
+    width: 312px;
+    border-radius: 20px;
+    border: none;
+    padding-left: 25px;
+}
+.Search_icon {
+    margin-left:25px ;
+    color: white;
+    
+    
+}
+.Search_icon {
+    background-color:#0a2885;
+    font-size: 20px;
+    border-radius: 25px;
+    padding-left: 10px;
+    color: white;
+
+    }
+.Search_icon input{
+    height: 40px;
+    width: 300px;
+    border-radius: 25px;
+    background-color: #0a2885;
+    border: none;
+    font-size: 1.2rem;
+    margin-left: 20px;
+    
+    
+}
+::placeholder{
+    color: white;
+}
+.User {
+   
+    background-color: white;
+    padding: 5px;
+    border-radius: 20px;
+    font-size: 1.2rem;
+
+
+}
+.new_button a{
+    text-decoration: none;
+    background-color: red;  
+    padding: 4px 16px;  
+    font-size: 10px;
+    border-radius: 25px;
+    color: white;
+}
+.new_button{
+    
+    margin-top: -68px;
+    margin-left: 333px;
+}
+.Text_content1{
+    margin: 14% 0px 0px 10% ;
+    color: #141414d7;
+    font-family: 'Roboto', sans-serif;
+   
+    
+    
+}
+.text_content2{
+    margin-top: 50px;
+    margin-left: 10%;
+}
+.veryfication_icon{
+    display: flex;
+    margin-top: 20px;
+
+}
+.veryfication_icon i{
+    font-size: 1.5rem;
+    color:#10d974;
+}
+.veryfication_icon h3{
+    margin-left: 20px;
+    color: rgba(0, 0, 0, 0.664);
+}
+.Scannner_box{
+    
+    padding: 20px;
+    height: 108px;
+    width: 352px;
+    background-color: #f1f8f1ea;
+    border-radius: 15px;
+    margin-top: 48px;
+}
+#donwoloadApp{
+    display: flex;
+}
+.Scannner_box h3{
+    margin-left: 15px;
+}
+.Scannner_box h6{
+    margin-top: -60px;
+    margin-left: 34%;
+    color:rgba(0, 0, 0, 0.479);
+}
+.Wlcomebox{
+    height: 426px;
+    width: 384px;
+    /* border: 2px solid red; */
+    margin-top: -45%;
+    margin-left: 55%;
+    border-radius: 35px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.sometext{
+    position: relative;
+    margin-top: 30px;
+    text-align: center;
+}
+.sometext h1{
+    padding-top: 50px;
+    font-size: 3rem;
+
+}
+.sometext p{
+    color: #000000A6;
+}
+.two_button{
+    margin-top: 20px;
+    text-align: center;
+}
+.two_button button{
+    border-radius: 20px;
+    font-size: 1.2rem;
+    padding: 7px 35px;
+    border: none;
+}
+#Mobile{
+    background-color: #0f3cc9 ;
+    color: white;
+
+    
+}
+#Mobile i{
+    color: white;
+    margin-right: 6px;
+}
+#Fiber {
+   color: #0f3cc9;
+   
+}
+#Fiber img{
+    margin-right: 6px;
+    
+}
+.Phone_input_box{
+    margin-top: 25px;
+    
+
+}
+.Phone_input_box ::placeholder{
+    color: rgba(0, 0, 0, 0.74);
+}
+.Phone_input_box input{
+    height: 35px;
+    width: 87%;
+    border-top: none;
+    border-left: none ;
+    border-right: none;
+    
+}
+.Phone_input_box button{
+    cursor: pointer;
+    background-color: #0f3cc9;
+    color: white;
+    font-size: 1.2rem;
+    border: none;
+    border-radius: 25px;
+    margin-top: 110px;
+    height: 50px;
+    width:87%;
+}
+.Other_text{
+    margin-left: 56%;
+    margin-top: 20px;
+
+}
+.Other_text a{
+    text-decoration: none;
+}
